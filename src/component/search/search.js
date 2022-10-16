@@ -10,6 +10,9 @@ const Search = ({ onSearchChange }) => {
         return fetch(`${GEO_API_URL}/cities?minPopulation=1000000&namePrefix=${inputValue}`,
             geoApiOptions
         )
+        // return (
+        //     axios.get(`${WEATHER_API_URL}/`)
+        // )
             .then(response => response.json())
             .then(response => {
                 return {

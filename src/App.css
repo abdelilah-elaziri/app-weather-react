@@ -1,5 +1,8 @@
 .container{
   max-width: 1080px;
   margin: 20px auto;
-  padding: 0 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #e2e2e2;
+  opacity: 0.95;
 }

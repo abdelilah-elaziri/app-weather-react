@@ -3,7 +3,8 @@ body {
   font-family: "poppin", Arial !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #e2e2e2;
+  background: url(../public/background-app-weather-react.jpg);
+  background-size: cover;
 }
 
 code {
