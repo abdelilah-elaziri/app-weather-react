@@ -1,3 +1,8 @@
+
+# Getting App weather using react
+
+![](./public/weather%20application%20react.js%20abdelilah%20elaziri.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
